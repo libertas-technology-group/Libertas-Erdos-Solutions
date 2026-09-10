@@ -1,0 +1,13 @@
+candidate: attempt_01
+lemma: carryValue_unbounded_T3_4_13_17_49
+generated_at: '2026-08-25T11:44:18'
+lean_toolchain: Lake version 5.0.0-src+db93fe1 (Lean version 4.27.0)
+palomar_recommended_min: v4.28.0
+palomar_floor_met: false
+warning: "\u26A0\uFE0F WARNING: targeting Lean <Lake version 5.0.0-src+db93fe1 (Lean\
+  \ version 4.27.0)> which is BELOW the Palomar recommended minimum <v4.28.0>; proofs\
+  \ will need a version bump before Palomar registration."
+model: deepseek-chat
+statement_sig: sha256:daf1e62b296480e4e6f63563c112fe7ed1ceb7d1d8979cc586d8688e76dafe93
+imports:
+- Mathlib
