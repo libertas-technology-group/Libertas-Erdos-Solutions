@@ -3,3 +3,11 @@ __pycache__/
 .ruff_cache/
 *.pyc
 .DS_Store
+
+# Host-side agent config. CLAUDE.md and .claude are the tool's files, not this product's;
+# this product keeps its rules in AGENTS.md and docs/. Remove them from history, do not track them.
+CLAUDE.md
+**/CLAUDE.md
+CLAUDE.local.md
+.claude/
+.claude/*

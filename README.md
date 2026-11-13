@@ -1,5 +1,7 @@
 <h1 align="center">Libertas Superintelligence — Erdős Solutions</h1>
 
+<!-- APPROVED_FRONT_DOOR: human-approved text. Do not rewrite without the owner's approval. -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Libertas_Superintelligence-Proprietary-1a1a1a?style=flat-square" alt="Libertas Superintelligence — Proprietary">
   &nbsp;
